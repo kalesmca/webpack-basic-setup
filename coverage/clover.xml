@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1641833240950" clover="3.2.0">
+  <project timestamp="1641833240950" name="All files">
+    <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0" elements="15" coveredelements="0" complexity="0" loc="11" ncloc="11" packages="1" files="4" classes="4"/>
+    <file name="App.tsx" path="C:\Users\kales\Documents\Study\GitHub\webpack-basic-setup\src\App.tsx">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+    </file>
+    <file name="Counter.tsx" path="C:\Users\kales\Documents\Study\GitHub\webpack-basic-setup\src\Counter.tsx">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+    </file>
+    <file name="declarations.d.ts" path="C:\Users\kales\Documents\Study\GitHub\webpack-basic-setup\src\declarations.d.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="index.tsx" path="C:\Users\kales\Documents\Study\GitHub\webpack-basic-setup\src\index.tsx">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
